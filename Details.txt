@@ -1,0 +1,9 @@
+﻿Solution,0,0,0,0,0,0
+Banana crop should be grown to get high yield,620,310,620,1,25,35
+Mango saplings can be planted,75,20,70,1.3,29,34
+Papaya trees can be grown here,925,925,925,0.9,40,29
+Potato farming can be done in this condition,60,100,120,0.7,12,29
+Tomato crop should be cultivated,180,120,150,0.5,17,46
+Paddy cultivation is suitable in this region,189.6,152.3,160,1,18,37
+Wheat cultivation is necessary,125,150,210,1.3,14,39
+Ragi needs to be cultivated for high yield in this region,450,420,350,1.2,19,37
